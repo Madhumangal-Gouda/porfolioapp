@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/porfolioapp/static/css/main.c7261b54.css",
+    "main.js": "/porfolioapp/static/js/main.2414b03f.js",
+    "static/media/logo.png": "/porfolioapp/static/media/logo.c7988b92c0522fd849e6.png",
+    "static/media/hrportalthumbnail.png": "/porfolioapp/static/media/hrportalthumbnail.2ffe4277ef8f93fbd75d.png",
+    "static/media/resume.pdf": "/porfolioapp/static/media/resume.f6c97e0df1d54a10e8d5.pdf",
+    "static/media/sspng.png": "/porfolioapp/static/media/sspng.6d45d8272fd7ceb8c634.png",
+    "static/media/portfoliosite.png": "/porfolioapp/static/media/portfoliosite.3f52307d274830416a69.png",
+    "static/media/icon.svg": "/porfolioapp/static/media/icon.4d1f380d2ac9b16bc8fb.svg",
+    "index.html": "/porfolioapp/index.html",
+    "main.c7261b54.css.map": "/porfolioapp/static/css/main.c7261b54.css.map",
+    "main.2414b03f.js.map": "/porfolioapp/static/js/main.2414b03f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7261b54.css",
+    "static/js/main.2414b03f.js"
+  ]
+}
