@@ -1,24 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import { Home } from './Page';
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main className="
+    scrollbar-thin scrollbar-track-zinc-800  dark:scrollbar-thumb-zinc-500 overflow-auto
+    min-h-screen flex justify-center  "
+    >
+      <Home />
+    </main>
   );
 }
 
