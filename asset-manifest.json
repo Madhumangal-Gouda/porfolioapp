@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.c7261b54.css",
-    "main.js": "/static/js/main.ac9e4670.js",
+    "main.js": "/static/js/main.a9e2d9ea.js",
     "static/media/logo.png": "/static/media/logo.c7988b92c0522fd849e6.png",
     "static/media/hrportalthumbnail.png": "/static/media/hrportalthumbnail.2ffe4277ef8f93fbd75d.png",
-    "static/media/resume.pdf": "/static/media/resume.f6c97e0df1d54a10e8d5.pdf",
+    "static/media/resume.pdf": "/static/media/resume.5252ce0faf5cebb11396.pdf",
+    "static/media/resume1.pdf": "/static/media/resume1.f6c97e0df1d54a10e8d5.pdf",
     "static/media/sspng.png": "/static/media/sspng.6d45d8272fd7ceb8c634.png",
     "static/media/portfoliosite.png": "/static/media/portfoliosite.3f52307d274830416a69.png",
     "static/media/icon.svg": "/static/media/icon.4d1f380d2ac9b16bc8fb.svg",
     "index.html": "/index.html",
     "main.c7261b54.css.map": "/static/css/main.c7261b54.css.map",
-    "main.ac9e4670.js.map": "/static/js/main.ac9e4670.js.map"
+    "main.a9e2d9ea.js.map": "/static/js/main.a9e2d9ea.js.map"
   },
   "entrypoints": [
     "static/css/main.c7261b54.css",
-    "static/js/main.ac9e4670.js"
+    "static/js/main.a9e2d9ea.js"
   ]
 }
