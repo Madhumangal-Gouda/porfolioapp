@@ -9,11 +9,11 @@ export const portfolioInfo =
 {
     name: "Madhumangal gouda",
     role: "Software Developer | UI Designer",
-    location: "Berhampur, Odisha (IN)",
+    location: "Brahmapur, Odisha (IN)",
     infohead: "From Visual Concepts to Functional Code",
     infocontent: {
         specialization: "Frontend Development",
-        frontendTechnologies: ["React Js", "Angular", "Next.js", "and Vue Js"],
+        frontendTechnologies: ["React Js", "Angular", "HTML", "CSS", "and Vue Js"],
         description: "I have a strong passion for creating dynamic and responsive web applications.",
         backendTechnologies: [".NET", "JavaScript", "Node.js"],
         databaseExperience: ["Oracle", "SQL Server"],
@@ -45,40 +45,72 @@ export const portfolioInfo =
                     projectName: "NexERA",
                     usedFor: "Fraight Forwarding & Liner System",
                     tech: ".Net Core, Angular 2 +, Crystal Report(For Invoice Generation) , Git (Version Control), And Oracle",
-                    projectdomain: "NexERA is a Fraight Forwarding & Liner System .",
+                    projectdomain: " Full Fleg FF System also supporting the Agency and Liner .",
                     projectdetail: "Working in team and developing module as per market requiredment for enhacing the product",
                 },
                 {
                     projectName: "Ascent",
                     usedFor: "Full Stack Developer",
                     tech: ".Net Framwork 4, Crystal Report(For Invoice Generation) , MVSS (Version Control) , And Oracle",
-                    projectdomain: "NexERA is a Fraight Forwarding & Liner System .",
+                    projectdomain: " Liner System .",
                     projectdetail: "Key Role is working in team and developing module as per market requiredment for enhacing the product",
+                }
+            ],
+
+        }, {
+            duration: "Sept, 2022 - Present",
+            company: "DIGIFIRM",
+            companyLink: "https://thedigifirm.com/",
+            role: "Developer",
+            companyProjects: [
+                {
+                    projectName: "FilterForFridge",
+                    usedFor: "E-commerce Site",
+                    tech: " Wordpress, Elementor, Woo-commerce, HTML, CSS , And SEO, SMO",
+                    projectdomain: " E-commerce Site",
+                    projectdetail: " Developing full site from scratch and also working on the SEO, SMO part for the site.",
+                },
+                {
+                    projectName: "Azoness",
+                    usedFor: "E-commerce Site",
+                    tech: " Wordpress, Elementor, Woo-commerce, HTML, CSS , And SEO, SMO",
+                    projectdomain: " Sprots E-commerce Site",
+                    projectdetail: " Developing full site from scratch and also working on the SEO, SMO part for the site",
                 }
             ],
 
         }
     ],
     projects: [
+        // {
+        //     projectid: 1,
+        //     projectType: "ONE_HAND",
+        //     projectcode: 'DEV2024001',
+        //     name: "Sansadhana",
+        //     description: 'This Project help to HR their day to day life easier with fresh UI Interface.',
+        //     image: "hrportalthumbnail.png",
+        //     status: "Inprogress",
+        //     siteurl: "https://hrportal.com",
+        // },
         {
             projectid: 1,
-            projectType: "ONE_HAND",
+            projectType: "TEAM",
             projectcode: 'DEV2024001',
-            name: "Sansadhana",
-            description: 'This Project help to HR their day to day life easier with fresh UI Interface.',
+            name: "NexERA",
+            description: 'Fraight Forwarding, Agency & Liner System',
             image: "hrportalthumbnail.png",
-            status: "Inprogress",
-            siteurl: "https://hrportal.com",
+            status: "",
+            siteurl: "",
         },
 
         {
             projectid: 2,
             projectType: "TEAM",
             projectcode: 'DEV2024002',
-            name: 'Caterer System',
-            description: 'This Project help to HR their day to day life easier with fresh UI Interface.',
+            name: 'Ascent',
+            description: 'Shipping Liner Liner System.',
             image: "hrportalthumbnail.png",
-            status: "Gethering Requirement",
+            status: "",
             siteurl: "",
 
         },
@@ -101,8 +133,7 @@ export const portfolioInfo =
             description: 'Personal Portfolio Site. Its Basically its a virtual resume of show the knowlaged you have.',
             image: "portfoliosite.png",
             status: "Completed",
-            siteurl: "https://madhumangalgouda.com",
-
+            siteurl: "https://madhumangalgouda.odifirm.in",
         },
     ]
 }
