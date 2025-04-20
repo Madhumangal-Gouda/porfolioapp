@@ -58,7 +58,7 @@ export const portfolioInfo =
             ],
 
         }, {
-            duration: "Sept, 2022 - Present",
+            duration: "Sept, 2021 - Sept, 2022",
             company: "DIGIFIRM",
             companyLink: "https://thedigifirm.com/",
             role: "Developer",
